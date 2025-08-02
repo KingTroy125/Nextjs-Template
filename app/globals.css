@@ -110,8 +110,8 @@
 
 :root {
   /* Accent colors */
-  --brand: oklch(66.5% 0.1804 47.04);
-  --brand-foreground: oklch(75.77% 0.159 55.91);
+  --brand: oklch(91.493% 0.12178 189.513);
+  --brand-foreground: oklch(91.493% 0.12178 189.513);
 
   /* Customized shadcn/ui colors */
   --background: oklch(97.65% 0.001 17.18);
@@ -159,8 +159,8 @@
 
 .dark {
   /* Accent colors */
-  --brand: oklch(83.6% 0.1177 66.87);
-  --brand-foreground: oklch(75.77% 0.159 55.91);
+  --brand: oklch(91.493% 0.12178 189.513);
+  --brand-foreground: oklch(91.493% 0.12178 189.513);
 
   /* Customized shadcn/ui colors */
   --background: oklch(0.141 0.005 285.823);
