@@ -2,7 +2,7 @@
 
 A modern, fully responsive website template built with Next.js 15, TypeScript, Tailwind CSS, and Radix UI. Perfect for building professional landing pages, marketing sites, or any modern web application.
 
-## Features
+## Features 
 
 - 🚀 Built with Next.js 15 and TypeScript
 - 🎨 Styled with Tailwind CSS
